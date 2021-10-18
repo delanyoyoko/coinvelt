@@ -11,8 +11,5 @@
     "@sveltejs/kit": "next",
     "svelte": "^3.42.6"
   },
-  "type": "module",
-  "engines": {
-    "node": ">=14.0"
-  }
+  "type": "module"
 }
